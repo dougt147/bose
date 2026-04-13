@@ -1,2 +1,1 @@
-# bose
-Bose Soundtouch script
+# bose stuff

@@ -1,0 +1,33 @@
+SOUNDTOUCH PRESETS - URL INFORMATION
+==========================================================================================
+
+Preset 1: BBC Radio 6 Music
+  Source: TUNEIN
+  Type: stationurl
+  Location: /v1/playback/station/s44491
+
+Preset 2: Absolute 80s
+  Source: TUNEIN
+  Type: stationurl
+  Location: /v1/playback/station/s333913
+
+Preset 3: Absolute Radio 90s
+  Source: TUNEIN
+  Type: stationurl
+  Location: /v1/playback/station/s126362
+
+Preset 4: BBC Radio 4
+  Source: TUNEIN
+  Type: stationurl
+  Location: /v1/playback/station/s25419
+
+Preset 5: Mission control
+  Source: LOCAL_INTERNET_RADIO
+  Type: stationurl
+  Location: https://content.api.bose.io/core02/svc-bmx-adapter-orion/prod/orion/station?data=eyJuYW1lIjoiTWlzc2lvbiBjb250cm9sIiwiaW1hZ2VVcmwiOiIiLCJzdHJlYW1VcmwiOiJodHRwczovL3NvbWFmbS5jb20vbm9zc2wvbWlzc2lvbmNvbnRyb2wxMzAucGxzIn0%3D
+
+Preset 6: Smooth UK
+  Source: TUNEIN
+  Type: stationurl
+  Location: /v1/playback/station/s221117
+
